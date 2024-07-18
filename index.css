@@ -2,12 +2,13 @@ html {
     background-color: hsl(212, 45%, 89%)
 }
 
-p{
+p, h1{
     font-size: 15px;
     padding-right: 30px;
     padding-left: 30px;
     padding-top: 10px;
 }
+
 
 
 .card {
