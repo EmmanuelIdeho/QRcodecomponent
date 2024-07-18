@@ -14,7 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -53,7 +52,7 @@ I think I understand the margin a lot better now. Used percentage value to make 
 ### Continued development
 
 I still need to get better at media queries, using the flexbox, and font manipulation
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+
 ### Useful resources
 
 - [Developer Mozilla media query](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries) - This helped me with remembering the syntax of media queries and has a nice catalogue of various examples.
